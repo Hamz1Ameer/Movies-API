@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
-import "./App.css";
-import Alan from "./Alan"; 
+// import "./App.css";
+// import Alan from "./Alan"; 
 
 // const API_URL = "http://www.omdbapi.com?apikey=b6003d8a";
 const API_URL = `https://www.omdbapi.com/?i=tt3896198&apikey=66ea1086`;
