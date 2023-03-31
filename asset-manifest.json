@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hamz1Ameer/Movies-Api/static/css/main.1d399871.css",
+    "main.js": "/Hamz1Ameer/Movies-Api/static/js/main.10b6ec07.js",
+    "static/js/787.c636f202.chunk.js": "/Hamz1Ameer/Movies-Api/static/js/787.c636f202.chunk.js",
+    "index.html": "/Hamz1Ameer/Movies-Api/index.html",
+    "static/media/search.svg": "/Hamz1Ameer/Movies-Api/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.1d399871.css.map": "/Hamz1Ameer/Movies-Api/static/css/main.1d399871.css.map",
+    "main.10b6ec07.js.map": "/Hamz1Ameer/Movies-Api/static/js/main.10b6ec07.js.map",
+    "787.c636f202.chunk.js.map": "/Hamz1Ameer/Movies-Api/static/js/787.c636f202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d399871.css",
+    "static/js/main.10b6ec07.js"
+  ]
+}
